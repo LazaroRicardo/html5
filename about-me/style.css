@@ -1,0 +1,7 @@
+/* colores títulos*/
+h1 {color:blue}
+h2 {color:blue}
+span {color: yellowgreen}
+body {background:url(./imgs/tontuna.jfif); color:white; font-family: Mali; background-repeat: no-repeat; background-size: 300px;background-position-x: center;background-color: green}
+header {border-bottom : 1px solid blue; padding-bottom: 10px;margin: 20px,10px,15px,30px}; 
+body {background: }
