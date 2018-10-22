@@ -1,0 +1,7 @@
+header>div{background-color: blue;display:inline-block;width: 80%;height: 100px;}
+header>nav{background-color: black;display:inline-block;width: 32%;height: 100px;}
+.C1{background-color: red;display: inline-block;width: 100px;height: 100px;}
+.C2{background: yellow; display: inline-block;width: 100px;height: 100px;}
+.C3{background-color: purple; display: inline-block;width: 100px;height: 100px;}
+article{background-color: brown;display: inline-block;width: 100%;height: 100px;}
+footer{background-color: aqua;display: inline-block;width: 100%;height: 100px;;}
